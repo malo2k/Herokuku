@@ -1,0 +1,12 @@
+<h1>Nouvel User</h1>
+
+<p>Veuillez remplir les champs</p>
+
+<a href="/create">S'inscrire</a>
+<form action='/create' method='post'>
+	<input type="hidden" name="authenticity_token" value="<% form_authenticity_token%>">
+	Nom d'utilisateur: <input type="string" name="username">
+	Adresse mail: <input type="string" name="email">
+	Biographie: <input type="text" name="bio">
+	<input type="submit" name="Enregister">
+</form>
