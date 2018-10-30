@@ -1,24 +1,15 @@
-# README
+## I love forms
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Exercice THP Formulaires
 
-Things you may want to cover:
+# Team : THP Rennes
 
-* Ruby version
+As usual
 
-* System dependencies
+-> git clone <-
 
-* Configuration
+-> cd repo <-
 
-* Database creation
+-> bundle install <-
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-> https://i-love-malo-forms.herokuapp.com/ <-
